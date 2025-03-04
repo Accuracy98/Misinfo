@@ -1,0 +1,5 @@
+Base model ROUGE scores:
+{'rouge1': 0.762526693609099, 'rouge2': 0.7413412345943619, 'rougeL': 0.7546289009983876}
+
+Fine-tuned model ROUGE scores:
+{'rouge1': 0.8716360918598085, 'rouge2': 0.856012252411206, 'rougeL': 0.8658308876417375}
